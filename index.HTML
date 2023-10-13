@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Interaction Assistant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            display: flex;
+            flex-direction: row;
+        }
+        header {
+            text-align: center;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        #left-panel, #right-panel {
+            width: 25%;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        #center-area {
+            width: 50%;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        button {
+            display: block;
+            margin-bottom: 10px;
+            padding: 5px 10px;
+        }
+        #suggested-question {
+            margin-top: 20px;
+            background-color: #f5f5f5;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        #reason-for-call {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <header>Customer Interaction Assistant</header>
+    <div id="center-area">
+        <h3>Call Reference ID</h3>
+        <input type="text" id="call-reference-id" placeholder="Enter Call Reference ID here...">
+        <h3>Reason for Call</h3>
+        <select id="product-type">
+            <option value="Mobile – Postpaid">Mobile – Postpaid</option>
+            <option value="Mobile – Prepaid">Mobile – Prepaid</option>
+            <option value="NBN – Internet">NBN – Internet</option>
+            <option value="HWBB – 5G">HWBB – 5G</option>
+            <option value="HWBB – 4G">HWBB – 4G</option>
+        </select>
+        <select id="interaction-type">
+            <option value="Sales">Sales</option>
+            <option value="Technical Support">Technical Support</option>
+            <option value="Billing">Billing</option>
+        </select>
+        <button onclick="confirmInteraction()">Submit</button>
+        <h3>Current Question</h3>
+        <p id="current-question">Based on the reason for the call, relevant questions will appear here.</p>
+        <textarea id="response-text" rows="4" cols="50" placeholder="Enter customer's response here..."></textarea>
+        <button onclick="submitResponse()">Submit Response</button>
+        <div id="suggested-question">
+            <h4>Suggested Next Question:</h4>
+            <p>Based on the response, the next question will appear here.</p>
+        </div>
+        <button onclick="saveOutput()">Save Output</button>
+        <button onclick="endQuestions()">That's Enough</button>
+    </div>
+    <div id="left-panel">
+        <h3>F.O.R.D Questions</h3>
+    </div>
+    <div id="right-panel">
+        <h3>History/Log</h3>
+        <div id="log"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

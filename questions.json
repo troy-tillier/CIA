@@ -1,0 +1,320 @@
+{
+    "Mobile – Postpaid": {
+        "Billing": {
+            "Friends/Family": [
+                {
+                    "question": "How often do your family members check their bills?",
+                    "followUps": [
+                        "Do they usually find discrepancies?",
+                        "How do they address any billing concerns?",
+                        "Are they aware of any promotions or discounts on their bills?"
+                    ]
+                },
+                {
+                    "question": "Do any family members have specific data or call needs?",
+                    "followUps": [
+                        "Are you looking for any additional features like parental controls?"
+                    ]
+                },
+                {
+                    "question": "Do all your family members review their own device charges?",
+                    "followUps": [
+                        "Are any family members sharing devices?",
+                        "Are you considering adding more devices or lines in the near future?",
+                        "How do you manage or monitor device usage among younger family members?"
+                    ]
+                }
+            ],
+            "Occupation": [
+                {
+                    "question": "Do you use this mobile postpaid for work and get reimbursements?",
+                    "followUps": [
+                        "How do you usually submit your bills for reimbursement?",
+                        "Does your company cover all charges or just specific ones?",
+                        "Have you considered a separate line just for work?"
+                    ]
+                },
+                {
+                    "question": "Do you often use your phone or internet for work-related tasks?",
+                    "followUps": [
+                        "Are you working remotely or from an office?",
+                        "How crucial is a stable internet connection for your daily tasks?",
+                        "Do you use any VPNs or secure networks for work?"
+                    ]
+                },
+                {
+                    "question": "How often do you find yourself on video calls or online meetings for work?",
+                    "followUps": [
+                        "Do you use a specific platform or software for these calls?",
+                        "How would you rate the quality and stability of your current video calls?",
+                        "Are you looking for a plan with better video call performance?"
+                    ]
+                }
+            ],
+            "Relaxation": [
+                {
+                    "question": "Do you stream videos or music on your phone?",
+                    "followUps": [
+                        "Which streaming platforms do you use the most?",
+                        "How would you rate the quality of your streaming experience?",
+                        "Are you interested in plans that offer streaming benefits or partnerships?"
+                    ]
+                },
+                {
+                    "question": "Tell me about the apps or games you enjoy during your downtime.",
+                    "followUps": [
+                        "Do you play online multiplayer games?",
+                        "How often do you purchase or subscribe to new apps or content?",
+                        "Are you looking for a plan with gaming benefits or faster speeds for apps?"
+                    ]
+                },
+                {
+                    "question": "Which apps or websites are your go-to for relaxation or entertainment?",
+                    "followUps": [
+                        "How did you discover these apps or websites?",
+                        "Do you have any subscriptions or memberships for these platforms?",
+                        "Would you be interested in plans that offer benefits or discounts for these platforms?"
+                    ]
+                }
+            ],
+            "Depth": [
+                {
+                    "question": "How satisfied are you with your current phone's battery life?",
+                    "followUps": [
+                        "How often do you need to charge your phone?",
+                        "Does your phone last a full day without charging?",
+                        "Are you considering phones with longer battery life in your next upgrade?"
+                    ]
+                },
+                {
+                    "question": "Describe any challenges you've faced with your current phone plan or service.",
+                    "followUps": [
+                        "Were these challenges related to data limits, call quality, or something else?",
+                        "How did you address these challenges?",
+                        "Are you considering switching providers or plans to overcome these challenges?"
+                    ]
+                },
+                {
+                    "question": "Have you ever felt your internet speed was lacking for certain activities?",
+                    "followUps": [
+                        "Which activities require the most speed?",
+                        "How often do you face speed-related issues?",
+                        "Are you considering plans with faster speeds or better performance for these activities?"
+                    ]
+                }
+            ]
+        },
+        "Sales": {
+            "Friends/Family": [
+                {
+                    "question": "Are you considering any add-ons or packages for your family members?",
+                    "followUps": [
+                        "What kind of add-ons are you considering: data, international calls, or entertainment packages?",
+                        "How often do you change or update your plan?",
+                        "Are there any promotions or deals you're currently looking at?"
+                    ]
+                },
+                {
+                    "question": "How do your family members typically use their phones?",
+                    "followUps": [
+                        "Do they use it more for gaming or streaming?",
+                        "How often do they browse the internet?",
+                        "Are they active on social media?"
+                    ]
+                },
+                {
+                    "question": "Are you considering a shared family plan or individual plans for each member?",
+                    "followUps": [
+                        "How many members are in your family?",
+                        "Do any family members have specific data or call needs?",
+                        "Are you looking for any additional features like parental controls?"
+                    ]
+                }
+            ],
+            "Occupation": [
+                {
+                    "question": "Is your phone primarily for personal use, or do you also use it for work?",
+                    "followUps": [
+                        "Do you handle sensitive work data on your phone?",
+                        "Are you required to be on-call or available outside of regular work hours?",
+                        "Do you use any specific work-related apps frequently?"
+                    ]
+                },
+                {
+                    "question": "What work-related tasks do you perform on your phone?",
+                    "followUps": [
+                        "Do you often access work emails on your phone?",
+                        "How frequently do you engage in work-related video calls?",
+                        "Do you use your phone for presentations or meetings?"
+                    ]
+                },
+                {
+                    "question": "Do you need a plan that offers hotspot capabilities for your work devices?",
+                    "followUps": [
+                        "How often do you use the hotspot feature?",
+                        "How many devices typically connect to your hotspot?",
+                        "Are you satisfied with the speed and reliability when using the hotspot?"
+                    ]
+                }
+            ],
+            "Relaxation": [
+                {
+                    "question": "Do you stream videos or music on your phone?",
+                    "followUps": [
+                        "Which streaming platforms do you use the most?",
+                        "How would you rate the quality of your streaming experience?",
+                        "Are you interested in plans that offer streaming benefits or partnerships?"
+                    ]
+                },
+                {
+                    "question": "Tell me about the apps or games you enjoy during your downtime.",
+                    "followUps": [
+                        "Do you play online multiplayer games?",
+                        "How often do you purchase or subscribe to new apps or content?",
+                        "Are you looking for a plan with gaming benefits or faster speeds for apps?"
+                    ]
+                },
+                {
+                    "question": "Which apps or websites are your go-to for relaxation or entertainment?",
+                    "followUps": [
+                        "How did you discover these apps or websites?",
+                        "Do you have any subscriptions or memberships for these platforms?",
+                        "Would you be interested in plans that offer benefits or discounts for these platforms?"
+                    ]
+                }
+            ],
+            "Depth": [
+                {
+                    "question": "How satisfied are you with your current phone's battery life?",
+                    "followUps": [
+                        "How often do you need to charge your phone?",
+                        "Does your phone last a full day without charging?",
+                        "Are you considering phones with longer battery life in your next upgrade?"
+                    ]
+                },
+                {
+                    "question": "Describe any challenges you've faced with your current phone plan or service.",
+                    "followUps": [
+                        "Were these challenges related to data limits, call quality, or something else?",
+                        "How did you address these challenges?",
+                        "Are you considering switching providers or plans to overcome these challenges?"
+                    ]
+                },
+                {
+                    "question": "Have you ever felt your internet speed was lacking for certain activities?",
+                    "followUps": [
+                        "Which activities require the most speed?",
+                        "How often do you face speed-related issues?",
+                        "Are you considering plans with faster speeds or better performance for these activities?"
+                    ]
+                }
+            ]
+        },
+        "Technical Support": {
+            "Friends/Family": [
+                {
+                    "question": "Do your family members often face technical issues with their phones?",
+                    "followUps": [
+                        "What kind of issues: connectivity, device malfunctions, or app-related?",
+                        "How do they usually resolve these issues?",
+                        "Have they considered reaching out to customer support?"
+                    ]
+                },
+                {
+                    "question": "How do your family members typically use their phones?",
+                    "followUps": [
+                        "Do they use it more for gaming or streaming?",
+                        "How often do they browse the internet?",
+                        "Are they active on social media?"
+                    ]
+                },
+                {
+                    "question": "Are you considering a shared family plan or individual plans for each member?",
+                    "followUps": [
+                        "How many members are in your family?",
+                        "Do any family members have specific data or call needs?",
+                        "Are you looking for any additional features like parental controls?"
+                    ]
+                }
+            ],
+            "Occupation": [
+                {
+                    "question": "Is your phone primarily for personal use, or do you also use it for work?",
+                    "followUps": [
+                        "Do you handle sensitive work data on your phone?",
+                        "Are you required to be on-call or available outside of regular work hours?",
+                        "Do you use any specific work-related apps frequently?"
+                    ]
+                },
+                {
+                    "question": "What work-related tasks do you perform on your phone?",
+                    "followUps": [
+                        "Do you often access work emails on your phone?",
+                        "How frequently do you engage in work-related video calls?",
+                        "Do you use your phone for presentations or meetings?"
+                    ]
+                },
+                {
+                    "question": "Do you need a plan that offers hotspot capabilities for your work devices?",
+                    "followUps": [
+                        "How often do you use the hotspot feature?",
+                        "How many devices typically connect to your hotspot?",
+                        "Are you satisfied with the speed and reliability when using the hotspot?"
+                    ]
+                }
+            ],
+            "Relaxation": [
+                {
+                    "question": "Do you stream videos or music on your phone?",
+                    "followUps": [
+                        "Which streaming platforms do you use the most?",
+                        "How would you rate the quality of your streaming experience?",
+                        "Are you interested in plans that offer streaming benefits or partnerships?"
+                    ]
+                },
+                {
+                    "question": "Tell me about the apps or games you enjoy during your downtime.",
+                    "followUps": [
+                        "Do you play online multiplayer games?",
+                        "How often do you purchase or subscribe to new apps or content?",
+                        "Are you looking for a plan with gaming benefits or faster speeds for apps?"
+                    ]
+                },
+                {
+                    "question": "Which apps or websites are your go-to for relaxation or entertainment?",
+                    "followUps": [
+                        "How did you discover these apps or websites?",
+                        "Do you have any subscriptions or memberships for these platforms?",
+                        "Would you be interested in plans that offer benefits or discounts for these platforms?"
+                    ]
+                }
+            ],
+            "Depth": [
+                {
+                    "question": "How satisfied are you with your current phone's battery life?",
+                    "followUps": [
+                        "How often do you need to charge your phone?",
+                        "Does your phone last a full day without charging?",
+                        "Are you considering phones with longer battery life in your next upgrade?"
+                    ]
+                },
+                {
+                    "question": "Describe any challenges you've faced with your current phone plan or service.",
+                    "followUps": [
+                        "Were these challenges related to data limits, call quality, or something else?",
+                        "How did you address these challenges?",
+                        "Are you considering switching providers or plans to overcome these challenges?"
+                    ]
+                },
+                {
+                    "question": "Have you ever felt your internet speed was lacking for certain activities?",
+                    "followUps": [
+                        "Which activities require the most speed?",
+                        "How often do you face speed-related issues?",
+                        "Are you considering plans with faster speeds or better performance for these activities?"
+                    ]
+                }
+            ]
+        }
+    }
+}
